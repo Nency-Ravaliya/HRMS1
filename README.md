@@ -6,7 +6,7 @@ Overall, the objective of an HR Management System is to enhance HR efficiency, i
 
 
 
-The #Human Resource Management System (HRMS) aims to manage employee’s information. HRMS is the most important because it provides systematic and accurate information about the employees of the organization. 
+The [Human Resource Management System (HRMS)]() aims to manage employee’s information. HRMS is the most important because it provides systematic and accurate information about the employees of the organization. 
 
 The primary key features design of an HR Management System include:
 
